@@ -1,9 +1,9 @@
 # inferential_statistics
 セミナー専用
 
-今日の資料（下書き，後日変更）
-#7 https://ryosuke-okubo.hatenablog.com/draft/G_k3LBlIbitIaVT_T1UvfiAWjp8
+今日の資料
+#7 https://ryosuke-okubo.hatenablog.com/entry/2019/05/09/210000
 
-#8 https://ryosuke-okubo.hatenablog.com/draft/GGfA6_epEab3fFQ_F7_uTCRekU0
+#8 https://ryosuke-okubo.hatenablog.com/entry/2019/05/16/210000
 
-#9 https://ryosuke-okubo.hatenablog.com/draft/hHnq62DvRaHhYqKli0pVO5poeJ0
+#9 https://ryosuke-okubo.hatenablog.com/entry/2019/05/23/210000
